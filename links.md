@@ -12,7 +12,8 @@ permalink: LINKS/
 * [Vim in 100 Seconds](https://www.youtube.com/watch?v=-txKSRn0qeA){:target="_blank"} --- A video introduction to Vim
 * [Vim Cheatsheet](https://vim.rtorr.com/){:target="_blank"} --- A handy cheatsheet for Vim
 * [`sed` Cheatsheet](https://quickref.me/sed){:target="_blank"} --- Quick reference guide for `sed` command
+* [Linux Command Cheatsheet](https://phoenixnap.com/kb/wp-content/uploads/2023/11/linux-commands-cheat-sheet-pdf.pdf){:target="_blank"} --- A comprehensive list of essential Linux commands
 <br>
 <br>
-#### REV: Sun 14 Sep 2024 16:24
+#### REV: Fri 20 Sep 2024 18:07
 <hr>
