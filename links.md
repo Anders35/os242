@@ -13,7 +13,8 @@ permalink: LINKS/
 * [Vim Cheatsheet](https://vim.rtorr.com/){:target="_blank"} --- A handy cheatsheet for Vim
 * [`sed` Cheatsheet](https://quickref.me/sed){:target="_blank"} --- Quick reference guide for `sed` command
 * [Linux Command Cheatsheet](https://phoenixnap.com/kb/wp-content/uploads/2023/11/linux-commands-cheat-sheet-pdf.pdf){:target="_blank"} --- A comprehensive list of essential Linux commands
+* [Tar Cheatsheet](https://devhints.io/tar){:target="_blank"} --- Quick reference for the `tar` command
 <br>
 <br>
-#### REV: Fri 20 Sep 2024 18:07
+#### REV: Sun 29 Sep 2024 13:39
 <hr>
