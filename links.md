@@ -14,7 +14,8 @@ permalink: LINKS/
 * [`sed` Cheatsheet](https://quickref.me/sed){:target="_blank"} --- Quick reference guide for `sed` command
 * [Linux Command Cheatsheet](https://phoenixnap.com/kb/wp-content/uploads/2023/11/linux-commands-cheat-sheet-pdf.pdf){:target="_blank"} --- A comprehensive list of essential Linux commands
 * [Tar Cheatsheet](https://devhints.io/tar){:target="_blank"} --- Quick reference for the `tar` command
+* [C Tutorial](https://www.w3schools.com/c/index.php){:target="_blank"} --- A tutorial for learning the C programming language, covering basics to advanced topics
 <br>
 <br>
-#### REV: Sun 29 Sep 2024 13:39
+#### REV: Fri 04 Oct 2024 12:30
 <hr>
