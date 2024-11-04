@@ -15,7 +15,9 @@ permalink: LINKS/
 * [Linux Command Cheatsheet](https://phoenixnap.com/kb/wp-content/uploads/2023/11/linux-commands-cheat-sheet-pdf.pdf){:target="_blank"} --- A comprehensive list of essential Linux commands
 * [Tar Cheatsheet](https://devhints.io/tar){:target="_blank"} --- Quick reference for the `tar` command
 * [C Tutorial](https://www.w3schools.com/c/index.php){:target="_blank"} --- A tutorial for learning the C programming language, covering basics to advanced topics
+* [C Memory Management](https://www.w3schools.com/c/c_memory_management.php){:target="_blank"} --- Understanding how memory works in C
+* [Docusaurus in 10 minutes](https://www.youtube.com/watch?v=Jb6XGXOk6C8){:target="_blank"} --- A brief video tutorial introducing Docusaurus
 <br>
 <br>
-#### REV: Fri 04 Oct 2024 12:30
+#### REV: Tue 4 Nov 2024 23:38
 <hr>
