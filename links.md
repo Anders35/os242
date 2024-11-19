@@ -18,7 +18,8 @@ permalink: LINKS/
 * [C Memory Management](https://www.w3schools.com/c/c_memory_management.php){:target="_blank"} --- Understanding how memory works in C
 * [Docusaurus in 10 minutes](https://www.youtube.com/watch?v=Jb6XGXOk6C8){:target="_blank"} --- A brief video tutorial introducing Docusaurus
 * [Linux History](https://www.geeksforgeeks.org/linux-history/){:target="_blank"} --- Learn history of linux
+* [Linux From Scratch](https://www.linuxfromscratch.org/){:target="_blank"} --- Guide to building your own Linux system from source
 <br>
 <br>
-#### REV: Tue 6 Nov 2024 21:22
+#### REV: Tue 19 Nov 2024 22:37
 <hr>
